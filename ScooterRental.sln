@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScooterRental", "ScooterRental\ScooterRental.csproj", "{3646779A-C5F8-400F-BBB1-F310C2E1208F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScooterRental.Tests", "ScooterRental.Tests\ScooterRental.Tests.csproj", "{E93020C4-9289-4CC4-AEDA-7B5FD57496D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3646779A-C5F8-400F-BBB1-F310C2E1208F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3646779A-C5F8-400F-BBB1-F310C2E1208F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3646779A-C5F8-400F-BBB1-F310C2E1208F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3646779A-C5F8-400F-BBB1-F310C2E1208F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93020C4-9289-4CC4-AEDA-7B5FD57496D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93020C4-9289-4CC4-AEDA-7B5FD57496D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93020C4-9289-4CC4-AEDA-7B5FD57496D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93020C4-9289-4CC4-AEDA-7B5FD57496D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2D5C3E-C812-45B6-93B2-360EB74AE59C}
+	EndGlobalSection
+EndGlobal
