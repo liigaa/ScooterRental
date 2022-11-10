@@ -1,6 +1,6 @@
 # ScooterRental
 
-Scooter rental service code using TDD approach.
+Scooter rental service code with unit tests.
 
 - can update the list of available scooters at any time
 - can rent scooters for any time period
